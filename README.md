@@ -1,0 +1,4 @@
+# Infodash
+
+## Requirements
+- PyQt5
