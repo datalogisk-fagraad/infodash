@@ -1,5 +1,6 @@
 import sys
 import io
+import signal
 
 from PyQt5.QtWidgets import QApplication
 from PyQt5.QtQml import qmlRegisterType, QQmlComponent, QQmlEngine, QQmlApplicationEngine
